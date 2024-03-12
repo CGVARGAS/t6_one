@@ -1,4 +1,6 @@
-**Projeto do Bootcamp T6 One: Desenvolvimento Front-end**
+## Projeto do Bootcamp T6 One: Desenvolvimento Front-end
+
+![T6 - One](imagem/t6_one.png]
 
 Este repositório contém o código desenvolvido durante o Bootcamp T6 One, um curso oferecido pela Alura em parceria com a Oracle. O curso tem como foco o desenvolvimento front-end, capacitando os participantes nas tecnologias essenciais para a criação de interfaces web modernas e responsivas.
 
