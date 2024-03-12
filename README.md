@@ -25,3 +25,5 @@ Para mais informações sobre o Bootcamp T6 One e outros cursos oferecidos pela 
 **Licença**
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes.
+
+Obs.: Texto desenvolvido com auxílio da IA - Chat GPT 3.5
