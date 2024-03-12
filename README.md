@@ -10,6 +10,8 @@ O projeto consiste em um portfólio web desenvolvido utilizando HTML, CSS e um p
 
 O código faz uso de técnicas de estilização avançadas, como flexbox e variáveis CSS, para garantir uma aparência consistente e responsiva em diferentes dispositivos e tamanhos de tela. Além disso, foram utilizadas fontes personalizadas do Google Fonts para melhorar a estética geral do projeto.
 
+O código foi desenvolvido pela alura e com suporte dos instrutores fui fazendo experiências ao longo do desenvolvimento e através dos exercicíos solicitados pelo professor tutor.
+
 **Como Contribuir**
 
 Se você deseja contribuir para o projeto, sinta-se à vontade para abrir problemas (issues) ou enviar solicitações de pull (pull requests). Todas as contribuições são bem-vindas e serão avaliadas pela equipe de desenvolvimento.
