@@ -6,7 +6,7 @@ Este repositório contém o código desenvolvido durante o Bootcamp T6 One, um c
 
 **Sobre o Projeto**
 
-O projeto consiste em um portfólio web desenvolvido utilizando HTML, CSS e um pouco de JavaScript. O objetivo do portfólio é apresentar uma breve introdução sobre Joana Santos, uma desenvolvedora Front-end com especialidade em React, HTML e CSS. O design do portfólio é limpo e moderno, com ênfase na apresentação do conteúdo de forma clara e atraente.
+O projeto consiste em um portfólio web desenvolvido utilizando HTML e CSS. O objetivo do portfólio é apresentar uma breve introdução sobre Joana Santos, uma desenvolvedora Front-end com especialidade em React, HTML e CSS. O design do portfólio é limpo e moderno, com ênfase na apresentação do conteúdo de forma clara e atraente.
 
 O código faz uso de técnicas de estilização avançadas, como flexbox e variáveis CSS, para garantir uma aparência consistente e responsiva em diferentes dispositivos e tamanhos de tela. Além disso, foram utilizadas fontes personalizadas do Google Fonts para melhorar a estética geral do projeto.
 
