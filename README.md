@@ -1,12 +1,16 @@
-**Projeto do Bootcamp T6 One: Desenvolvimento Front-end**
+## Projeto do Bootcamp T6 One: Desenvolvimento Front-end
+
+![T6 - One](imagem/t6_one.png)
 
 Este repositório contém o código desenvolvido durante o Bootcamp T6 One, um curso oferecido pela Alura em parceria com a Oracle. O curso tem como foco o desenvolvimento front-end, capacitando os participantes nas tecnologias essenciais para a criação de interfaces web modernas e responsivas.
 
 **Sobre o Projeto**
 
-O projeto consiste em um portfólio web desenvolvido utilizando HTML, CSS e um pouco de JavaScript. O objetivo do portfólio é apresentar uma breve introdução sobre Joana Santos, uma desenvolvedora Front-end com especialidade em React, HTML e CSS. O design do portfólio é limpo e moderno, com ênfase na apresentação do conteúdo de forma clara e atraente.
+O projeto consiste em um portfólio web desenvolvido utilizando HTML e CSS. O objetivo do portfólio é apresentar uma breve introdução sobre Joana Santos, uma desenvolvedora Front-end com especialidade em React, HTML e CSS. O design do portfólio é limpo e moderno, com ênfase na apresentação do conteúdo de forma clara e atraente.
 
 O código faz uso de técnicas de estilização avançadas, como flexbox e variáveis CSS, para garantir uma aparência consistente e responsiva em diferentes dispositivos e tamanhos de tela. Além disso, foram utilizadas fontes personalizadas do Google Fonts para melhorar a estética geral do projeto.
+
+O código foi desenvolvido pela alura e com suporte dos instrutores fui fazendo experiências ao longo do desenvolvimento e através dos exercicíos solicitados pelo professor tutor.
 
 **Como Contribuir**
 
@@ -21,3 +25,5 @@ Para mais informações sobre o Bootcamp T6 One e outros cursos oferecidos pela 
 **Licença**
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes.
+
+Obs.: Texto desenvolvido com auxílio da IA - Chat GPT 3.5
